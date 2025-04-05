@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/ob-codes/social-links-profile-main)
+- Live Site URL: [live site URL](https://ob-codes.github.io/social-links-profile-main/)
 
 ### Built with
 
